@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: rabbitmq.nvo.xin
+    virtual-host: /dsf/dev
+    port: 5672
+    username: do1
+    password: do1@123qwe
